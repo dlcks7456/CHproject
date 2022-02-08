@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 def home():
 
-    return 'Hello, World!'
+    return 'Hello, World! Hi, Git !'
 
 
 
